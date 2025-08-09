@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Formulario Registro</title>
+</head>
+<body>
+
+<h1>Registro</h1>
+<form method="post" action="#">
+  <label>Nombre: <input type="text" name="nombre" required></label><br>
+  <label>Fecha de nacimiento: <input type="date" name="nac"></label><br>
+  <label>País:
+    <select name="pais">
+      <option>México</option><option>Argentina</option><option>España</option>
+    </select>
+  </label><br>
+  <label><input type="checkbox" name="tos" required> Acepto términos</label><br>
+  <button type="submit">Crear cuenta</button>
+</form>
+
+</body>
+</html>
