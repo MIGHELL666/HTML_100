@@ -1,5 +1,5 @@
 <p align="center">
-<img src="BANNER-HTML.jpeg" alt="Mi Banner" width="1024">
+<img src="100html.jpeg" alt="Mi Banner" width="1024">
 </p>
 
 # 🧱🌐 **HTML100 – Colección de Documentos y Maquetaciones** 📄✨
